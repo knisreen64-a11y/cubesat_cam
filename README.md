@@ -1,1 +1,1 @@
-# satellitecam
+# cubesat_cam
